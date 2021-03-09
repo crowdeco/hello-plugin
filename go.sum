@@ -74,6 +74,8 @@ github.com/crowdeco/bima/v2 v2.0.1 h1:7ECLTajWVXe+Xce2BLYuNmzKkgbJFxEI5xOLaAw5AB
 github.com/crowdeco/bima/v2 v2.0.1/go.mod h1:w9hsYq77XzbauRkKBdRAZGCV4VVJgfSRElrH+Arfezg=
 github.com/crowdeco/bima/v2 v2.0.2 h1:Ufl8x6F6UeOTigUJswkYFUFkQwP5wo1kzYsZN0ne5So=
 github.com/crowdeco/bima/v2 v2.0.2/go.mod h1:tTzIa53dprpGV2MnQFFNMKAGMmQRUqUPsJq+YfrFrZk=
+github.com/crowdeco/bima/v2 v2.0.6 h1:EmfUNmhiMptkbEI+v+92nm217bleiyaDwlqlcrKWTJ0=
+github.com/crowdeco/bima/v2 v2.0.6/go.mod h1:tTzIa53dprpGV2MnQFFNMKAGMmQRUqUPsJq+YfrFrZk=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
