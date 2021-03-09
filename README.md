@@ -10,4 +10,4 @@ Hello is plugin example for [Skeleton](https://github.com/crowdeco/skeleton)
 go build -buildmode=plugin -o hello.so . 
 ```
 
-- Copy `hello.so` to folder `plugins` in your Skeleton App
+- Copy `hello.so` to `plugins` folder in your Skeleton App
